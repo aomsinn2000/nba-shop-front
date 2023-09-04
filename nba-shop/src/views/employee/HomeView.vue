@@ -114,7 +114,7 @@ export default {
 </script>
 
 <style>
-.background-header-menu .p-panel .p-panel-header {
+.background-header-menu .p-panel .p-panel-headervv {
     border: 1px solid #dee2e6;
     padding: 1.25rem;
     background: #c1b5fb;
